@@ -4,7 +4,7 @@
 I am building hands-on experience in SOC operations, SIEM tools, and IT security fundamentals.
 
 ## 🛡️ Current Focus
-- SOC Analyst skills (log analysis, threat detection)
+- SOC Analyst skills (log analysis, threat detection) 
 - SIEM tools like Splunk Enterprise
 - Windows security event analysis
 - Active Directory & IT fundamentals
